@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1540227546 source:c:\users\wali-pc.desktop-87b9csh\documents\miniprojectlab\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1540221912 c:\users\wali-pc.desktop-87b9csh\documents\miniprojectlab\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1540211281 c:\users\wali-pc.desktop-87b9csh\documents\miniprojectlab\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1540220929 c:\users\wali-pc.desktop-87b9csh\documents\miniprojectlab\keylogger\base64.h
+	<vector>
+	<string>
+
+1540222253 c:\users\wali-pc.desktop-87b9csh\documents\miniprojectlab\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1540222866 c:\users\wali-pc.desktop-87b9csh\documents\miniprojectlab\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1540225799 c:\users\wali-pc.desktop-87b9csh\documents\miniprojectlab\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1540227759 c:\users\wali-pc.desktop-87b9csh\documents\miniprojectlab\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1540273352 source:c:\users\wali-pc.desktop-87b9csh\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1540221912 c:\users\wali-pc.desktop-87b9csh\documents\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1540211281 c:\users\wali-pc.desktop-87b9csh\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1540220929 c:\users\wali-pc.desktop-87b9csh\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1540222253 c:\users\wali-pc.desktop-87b9csh\documents\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1540222866 c:\users\wali-pc.desktop-87b9csh\documents\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1540283488 c:\users\wali-pc.desktop-87b9csh\documents\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1540277209 c:\users\wali-pc.desktop-87b9csh\documents\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+

@@ -1,0 +1,393 @@
+[23.10.2018 08:42:16]
+Hook started... Timer started
+
+[23.10.2018 08:42:46]
+File creation was not succesfull. Keylog '[Space]'
+
+[23.10.2018 08:43:13]
+Hook started... Timer started
+
+[23.10.2018 08:43:16]
+File creation was not succesfull. Keylog '[Space][Space]'
+
+[23.10.2018 08:43:43]
+File creation was not succesfull. Keylog '[Space][Space]'
+
+[23.10.2018 08:43:46]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space]'
+
+[23.10.2018 08:44::6]
+Hook started... Timer started
+
+[23.10.2018 08:44:13]
+File creation was not succesfull. Keylog '[Space][Space]'
+
+[23.10.2018 08:44:16]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space]'
+
+[23.10.2018 08:44:43]
+File creation was not succesfull. Keylog '[Space][Space]'
+
+[23.10.2018 08:44:46]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space]'
+
+[23.10.2018 08:45:13]
+File creation was not succesfull. Keylog '[Space][Space]'
+
+[23.10.2018 08:45:16]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I]'
+
+[23.10.2018 08:45:43]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:45:46]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:46:13]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:46:16]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:46:43]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:46:46]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:47:13]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:47:17]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:47:43]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:47:47]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:48:13]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:48:17]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:48:43]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:48:47]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:49:13]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:49:17]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:49:43]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:49:47]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:50:13]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:50:17]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:50:43]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:50:47]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:51:13]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:51:17]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:51:43]
+File creation was not succesfull. Keylog '[Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 08:51:47]
+File creation was not succesfull. Keylog '[Space][Space][Space][Space][G][M][A][I][Arrow Right][Enter]
+'
+
+[23.10.2018 09:17:30]
+Hook started... Timer started
+
+[23.10.2018 09:36::0]
+Hook started... Timer started
+
+[23.10.2018 10:15::8]
+Hook started... Timer started
+
+[23.10.2018 10:15:44]
+Hook started... Timer started
+
+[23.10.2018 10:28:12]
+Hook started... Timer started
+
+[23.10.2018 10:28:42]
+File creation was not succesfull. Keylog '[N][O][T][E]'
+
+[23.10.2018 10:29:12]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F]'
+
+[23.10.2018 10:29:42]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:30:12]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:30:42]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:31:12]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:31:42]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:32:12]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:32:42]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:33:12]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:33:42]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:34:12]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:34:42]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:35:12]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:35:42]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:36:12]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:36:43]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:37:15]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:37:46]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift]'
+
+[23.10.2018 10:38:16]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+'
+
+[23.10.2018 10:38:46]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+'
+
+[23.10.2018 10:39:16]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+'
+
+[23.10.2018 10:39:46]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+[H][A][C][K][E][R][Left Shift][M][/Left Shift][R][Left Shift][X][/Left Shift][Left Shift][/Left Shift][H][A][C][K][I][N][G][Left Shift][D7][/Left Shift][Backspace][Z][O]'
+
+[23.10.2018 10:40:16]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+[H][A][C][K][E][R][Left Shift][M][/Left Shift][R][Left Shift][X][/Left Shift][Left Shift][/Left Shift][H][A][C][K][I][N][G][Left Shift][D7][/Left Shift][Backspace][Z][O][N][E][D0][D2][Backspace][Backspace][D6][D6][D6][Backspace][D6][I][L][O][V][W][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][L][O][C][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)]'
+
+[23.10.2018 10:40:46]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+[H][A][C][K][E][R][Left Shift][M][/Left Shift][R][Left Shift][X][/Left Shift][Left Shift][/Left Shift][H][A][C][K][I][N][G][Left Shift][D7][/Left Shift][Backspace][Z][O][N][E][D0][D2][Backspace][Backspace][D6][D6][D6][Backspace][D6][I][L][O][V][W][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][L][O][C][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][/Left Shift][L][O][V][E][OEM_PERIOD (> .)][Left Shift][C][/Left Shift][O][D][I][N][G][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][I][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G]'
+
+[23.10.2018 10:41:16]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+[H][A][C][K][E][R][Left Shift][M][/Left Shift][R][Left Shift][X][/Left Shift][Left Shift][/Left Shift][H][A][C][K][I][N][G][Left Shift][D7][/Left Shift][Backspace][Z][O][N][E][D0][D2][Backspace][Backspace][D6][D6][D6][Backspace][D6][I][L][O][V][W][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][L][O][C][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][/Left Shift][L][O][V][E][OEM_PERIOD (> .)][Left Shift][C][/Left Shift][O][D][I][N][G][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][I][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][W][A][L][Backspace][Backspace][Backspace][V][A][L][I][U][Backspace][R][A][Z][A][B][B][K][Left Shift][D2][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M]'
+
+[23.10.2018 10:41:46]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+[H][A][C][K][E][R][Left Shift][M][/Left Shift][R][Left Shift][X][/Left Shift][Left Shift][/Left Shift][H][A][C][K][I][N][G][Left Shift][D7][/Left Shift][Backspace][Z][O][N][E][D0][D2][Backspace][Backspace][D6][D6][D6][Backspace][D6][I][L][O][V][W][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][L][O][C][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][/Left Shift][L][O][V][E][OEM_PERIOD (> .)][Left Shift][C][/Left Shift][O][D][I][N][G][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][I][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][W][A][L][Backspace][Backspace][Backspace][V][A][L][I][U][Backspace][R][A][Z][A][B][B][K][Left Shift][D2][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][N0][N1][N1][N9][N9][N9]'
+
+[23.10.2018 10:42:16]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+[H][A][C][K][E][R][Left Shift][M][/Left Shift][R][Left Shift][X][/Left Shift][Left Shift][/Left Shift][H][A][C][K][I][N][G][Left Shift][D7][/Left Shift][Backspace][Z][O][N][E][D0][D2][Backspace][Backspace][D6][D6][D6][Backspace][D6][I][L][O][V][W][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][L][O][C][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][/Left Shift][L][O][V][E][OEM_PERIOD (> .)][Left Shift][C][/Left Shift][O][D][I][N][G][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][I][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][W][A][L][Backspace][Backspace][Backspace][V][A][L][I][U][Backspace][R][A][Z][A][B][B][K][Left Shift][D2][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][N0][N1][N1][N9][N9][N9]'
+
+[23.10.2018 10:42:46]
+File creation was not succesfull. Keylog '[N][O][T][E][D][S][F][S][D][F][S][D][F][S][D][F][Enter]
+[D3][D2][D4][D2][D3][D4][D2][D3][D4][D2][Enter]
+[Left Shift][D4][D5][D3][D5][D3][D5][D3][D4][D6][D5][D6][D5][F4][Enter]
+[/Left Shift][H][D][F][G][H][F][H][G][H][D][Enter]
+[Left Shift][/Left Shift][Left Shift][S][D][F][S][D][F][S][D][F][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+[Enter]
+[Enter]
+[H][A][C][K][E][R][Left Shift][M][/Left Shift][R][Left Shift][X][/Left Shift][Left Shift][/Left Shift][H][A][C][K][I][N][G][Left Shift][D7][/Left Shift][Backspace][Z][O][N][E][D0][D2][Backspace][Backspace][D6][D6][D6][Backspace][D6][I][L][O][V][W][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][L][O][C][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][/Left Shift][L][O][V][E][OEM_PERIOD (> .)][Left Shift][C][/Left Shift][O][D][I][N][G][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][I][Backspace][Left Shift][I][/Left Shift][OEM_PERIOD (> .)][L][O][V][E][OEM_PERIOD (> .)][C][O][D][I][N][G][W][A][L][Backspace][Backspace][Backspace][V][A][L][I][U][Backspace][R][A][Z][A][B][B][K][Left Shift][D2][/Left Shift][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][N0][N1][N1][N9][N9][N9]'
+
+[23.10.2018 11:16:18]
+Hook started... Timer started
+
+[23.10.2018 12:01:18]
+Hook started... Timer started
+
+[23.10.2018 12:03:48]
+File creation was not succesfull. Keylog '[Delete]'
+
+[23.10.2018 12:06:26]
+File creation was not succesfull. Keylog '[Delete]'
+
